@@ -1,2 +1,3 @@
 servlets\redirect.class
 servlets\Ups.class
+servlets\Info.class
