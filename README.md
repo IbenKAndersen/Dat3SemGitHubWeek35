@@ -10,7 +10,7 @@ Fundamental Network Topics
 The Http Protocol
 - Status: Done with exercises 1-7. I have explained my observations and conclusions in the document The HTTP Protocol.
 - Location: The document with answers and the NetBeans projects are in the folder 02-wednesday-excercises
-- Learning goals: implementing code with Http Headers, understanding Http status codes og ranges, explaining and demonstrating Http sessions and Http cookies. 
+- Learning goals: implementing code with Http headers, understanding Http status codes og ranges, explaining and demonstrating Http sessions and Http cookies. 
 
 # Thursday 29/08/2019
 Setup your domain name with Digital Ocean
